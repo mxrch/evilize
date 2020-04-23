@@ -103,7 +103,6 @@ working.
 
 For an explanation, see http://www.mathstat.dal.ca/~selinger/md5collision/
 
------------------
 ## Credits 
 
 The md5coll tool was written by Patrick Stach <pstach@stachliu.com>,
